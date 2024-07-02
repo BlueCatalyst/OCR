@@ -14,3 +14,5 @@ Użyć komendy `pip install -r requirements.txt`
 Używamy komendy `python3 .\main.py`
 
 Autor: Nikodem Kaliński 
+
+![Zrzut ekranu aplikacji](/APka.png?raw=true "Zrzut ekranu aplikacji")
